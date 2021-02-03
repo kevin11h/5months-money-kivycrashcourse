@@ -1,3 +1,9 @@
+Affliated Referred Rewarded Resources
+
++ https://gitlab.com/kivymd/KivyMD
++ https://github.com/kivymd/KivyMD/commits/master
++ https://play.google.com/store/apps/details?id=org.kivymd.kivymd
+
 Kivy Crash Course
 =================
 
