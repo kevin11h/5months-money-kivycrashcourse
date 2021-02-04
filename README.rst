@@ -1,9 +1,9 @@
-# Affliated Referred Rewarded Resources
-
+Affliated Referred Rewarded Resources
+=================
 + https://gitlab.com/kivymd/KivyMD
 + https://github.com/kivymd/KivyMD/commits/master
 + https://play.google.com/store/apps/details?id=org.kivymd.kivymd
-
++ https://github.com/HeaTTheatR/KivyMD/commits/master
 Kivy Crash Course
 =================
 
